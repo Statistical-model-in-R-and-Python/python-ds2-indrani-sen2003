@@ -1,7 +1,7 @@
 import pandas as pd;
 
 try:
-  hello()
+  hello_world()
 except Exception, error:
   print "An exception was thrown!"
   print str(error)
